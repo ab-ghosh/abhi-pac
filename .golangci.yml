@@ -12,6 +12,4 @@ linters-settings:
 linters:
   enable:
     - forbidigo
-      - 'fmt\.Print$'
-      - 'fmt\.Printf$'
     - unused
