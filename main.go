@@ -3,5 +3,5 @@ package main
 import "log"
 
 func main() {
-	log.Println("Hello from pac testing 1")
+	log.Println("Hello local testing from pac testing 1")
 }
