@@ -3,5 +3,5 @@ package main
 import "log"
 
 func main() {
-	log.Println("Hi, Local testing 6")
+	log.Println("Hi,  testing yaml 1:")
 }
